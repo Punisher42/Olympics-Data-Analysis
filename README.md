@@ -54,13 +54,3 @@ Screenshots can be added under assets/ folder for reference.
 4. Run the notebook cells to explore the visualizations and ML predictions.
 
 ---
-
-## ✅ Results Summary
-
-- *Top Athlete*: Michael Phelps (16 medals)
-- *Most Hosted City*: Beijing
-- *Dominant Countries*: USA, Russia, China
-- *Gender Insight*: More male events than female
-- *ML Accuracy*: Approx. 85–90%
-
----
